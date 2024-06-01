@@ -4,7 +4,6 @@ Esta plantilla está diseñada para acelerar el proceso de configuración de Tai
 sus aplicaciones Blazor mucho más rápidamente mientras se encarga de todo el trabajo de configuración redundante.
 Las plantillas Blazor predeterminadas no vacías vienen equipadas con Bootstrap. Sin embargo, esta plantilla reemplaza Bootstrap con Tailwind CSS y, además de eso, instala Flowbite, que es una biblioteca de componentes de interfaz de usuario de código abierto y de uso gratuito construida sobre Tailwind CSS. La biblioteca tiene una gran cantidad de componentes de interfaz de usuario bien diseñados. Componentes totalmente interactivos y con capacidad de respuesta móvil que puede utilizar para crear sus aplicaciones.
 
-<img width="1680" alt="Captura de pantalla 2024-01-23 a las 8:00 34 p.m." src="https://github.com/rasheed-k-mozaffar/FlowbiteBlazorWasmStarter/assets/109946031/8b36ab67-ef16-458b -93ee-82f9ddfd3737">
 
 # ¿Cómo empezar?
 
